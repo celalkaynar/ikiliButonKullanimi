@@ -8,4 +8,5 @@
 • 3 adet 220Ω (kırmızı, kırmızı, kahverengi, altın rengi) direnç</br>
 • 2 adet 10KΩ (kahverengi, siyah, sarı, altın rengi) direnç</br>
 • Bağlantı kablolar</br>
-![Ekran görüntüsü 2022-10-31 103208](https://user-images.githubusercontent.com/114685575/198955137-20d230e2-1d39-4237-ac5c-faf4346d4f93.png)
+![image](https://user-images.githubusercontent.com/114685575/199087370-302893ae-76f2-4697-baf2-6cad569842f6.png)
+
